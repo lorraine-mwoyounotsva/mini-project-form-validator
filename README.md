@@ -26,3 +26,8 @@ This is a simple and interactive registration form validator built using HTML, C
 - If fields are empty or invalid, an error message is shown.
 - If all fields are valid, an alert confirms registration.
 - Visual cues (color-coded borders) show users which fields need attention.
+
+<div align="center">
+  <img src="https://github.com/lorraine-mwoyounotsva/mini-project-form-validator/blob/main/form-validator.png?raw=true" alt="Form Validator Preview" width="400"/> 
+</div>
+https://github.com/lorraine-mwoyounotsva/mini-project-form-validator/blob/main/form-validator.png
